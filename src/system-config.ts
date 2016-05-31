@@ -30,6 +30,8 @@ const barrels: string[] = [
   'app',
   'app/shared',
   'app/line-score',
+  'app/inning-state',
+  'app/pitches',
   /** @cli-barrel */
 ];
 
